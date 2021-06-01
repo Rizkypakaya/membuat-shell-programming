@@ -6,3 +6,12 @@
   hostname
 4. Perintah untuk melihat konten atau isi directori
   ls
+  
+//ekky
+5. perintah untuk menampilkan list
+   - li
+6. perintah untuk melihat direktori anda
+   - pwd
+7 perintah untuk masuk ke text editor vi
+   - vi latihan1
+
