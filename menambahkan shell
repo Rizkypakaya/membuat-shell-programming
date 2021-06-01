@@ -1,0 +1,25 @@
+#Berikut Adalah Perintah Linux Yang Saya Pakai
+
+#1.Perintah untuk melihat tanggal hari ini menggunakan
+date
+
+#2.Perintah untuk memunculkan calender menggunakan
+cal
+
+#3.Perintah untuk menampilkan sisa disk space menggunakan
+quota
+
+#4.Perintah untuk menampilkan ukuran file menggunakan
+du
+
+#5.Perintah untuk memperlihatkan kita berada di direktori mana sekarang dengan menggunakan
+pwd
+
+#6.Perintah untuk menampilkan beberapa file dan folder menggunakan
+ls
+
+#7.Perintah untuk melihat riwayat perintah menggunakan 
+history
+
+#8.Perintah untuk mengurutkan file sesuai ukuran dari yang terbesar menggunakan
+ls -S
