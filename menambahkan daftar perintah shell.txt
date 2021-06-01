@@ -10,3 +10,5 @@
    - li
 5. perintah untuk melihat direktori anda
    - pwd
+6 perintah untuk masuk ke text editor vi
+   - vi latihan1
