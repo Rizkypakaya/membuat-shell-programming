@@ -2,3 +2,5 @@
   more
 2.Perintah menghapus nama file
   rm
+3.perintah untuk melihat nama host/network
+  hostname
