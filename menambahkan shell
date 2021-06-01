@@ -23,3 +23,6 @@ history
 
 #8.Perintah untuk mengurutkan file sesuai ukuran dari yang terbesar menggunakan
 ls -S
+
+#9.Mengubah status sebuah file
+chmod
