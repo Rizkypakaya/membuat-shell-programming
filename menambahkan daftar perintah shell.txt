@@ -1,0 +1,4 @@
+1.Perintah untuk menampilkan isi file dengan layar penuh 
+  more
+2.Perintah menghapus nama file
+  rm
