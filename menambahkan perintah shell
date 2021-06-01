@@ -1,0 +1,13 @@
+#Kali ini kita akan membuat script untuk memudahkan pekerjaan
+
+echo -n "Masukkan Nama Saya:"
+read nama
+
+echo "..... $nama"
+
+echo -n "Silahkan Memasukkan NIM:"
+read NIM
+
+echo "....... $NIM"
+
+echo "Terima Kasih Telah Mengisi"
