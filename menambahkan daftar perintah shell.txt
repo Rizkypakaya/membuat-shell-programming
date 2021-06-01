@@ -4,3 +4,5 @@
   rm
 3.perintah untuk melihat nama host/network
   hostname
+4. perintah menghapus user
+   sudo userdel <-nama user->
