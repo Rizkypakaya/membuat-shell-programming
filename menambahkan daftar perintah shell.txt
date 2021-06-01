@@ -4,3 +4,11 @@
   rm
 3.perintah untuk melihat nama host/network
   hostname
+  
+//ekky
+4. perintah untuk menampilkan list
+   - li
+5. perintah untuk melihat direktori anda
+   - pwd
+6 perintah untuk masuk ke text editor vi
+   - vi latihan1
