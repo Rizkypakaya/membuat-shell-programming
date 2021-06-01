@@ -4,14 +4,19 @@
   rm
 3.perintah untuk melihat nama host/network
   hostname
-4. Perintah untuk melihat konten atau isi directori
+
+5. perintah menghapus user
+   sudo userdel <-nama user->
+
+6. Perintah untuk melihat konten atau isi directori
   ls
   
 //ekky
-5. perintah untuk menampilkan list
+7. perintah untuk menampilkan list
    - li
-6. perintah untuk melihat direktori anda
+8. perintah untuk melihat direktori anda
    - pwd
-7 perintah untuk masuk ke text editor vi
+9 perintah untuk masuk ke text editor vi
    - vi latihan1
+
 
