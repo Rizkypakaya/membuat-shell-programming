@@ -9,20 +9,17 @@ cal
 #3.Perintah untuk menampilkan sisa disk space menggunakan
 quota
 
-#4.Perintah untuk menampilkan ukuran file menggunakan
-du
-
-#5.Perintah untuk memperlihatkan kita berada di direktori mana sekarang dengan menggunakan
+#4.Perintah untuk memperlihatkan kita berada di direktori mana sekarang dengan menggunakan
 pwd
 
-#6.Perintah untuk menampilkan beberapa file dan folder menggunakan
+#5.Perintah untuk menampilkan beberapa file dan folder menggunakan
 ls
 
-#7.Perintah untuk melihat riwayat perintah menggunakan 
+#6.Perintah untuk melihat riwayat perintah menggunakan 
 history
 
-#8.Perintah untuk mengurutkan file sesuai ukuran dari yang terbesar menggunakan
+#7.Perintah untuk mengurutkan file sesuai ukuran dari yang terbesar menggunakan
 ls -S
 
-#9.Mengubah status sebuah file
+#8.Mengubah status sebuah file
 chmod
